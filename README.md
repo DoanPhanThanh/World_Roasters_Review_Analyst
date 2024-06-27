@@ -6,6 +6,10 @@ I am participating in FP20 Analytics Challenge 16.
 
 This report explores the World Roaster Review dataset to uncover key insights about the global coffee market. We will examine detailed information on coffee ratings, origins, roast types, and more. The interactive visualizations facilitate the analysis of trends, comparisons of coffee brands and roasters, and understanding consumer preferences across different regions.
 
+## Dashboard
+<img width="950" alt="Overview" src="https://github.com/DoanPhanThanh/World_Roasters_Review_Analyst/blob/6a2dd6b846aebf5e0425af48fb6780d387ca5c55/World_Roasters_Review_Analysis%20-%20Overview.png">
+<img width="950" alt="Details" src="https://github.com/DoanPhanThanh/World_Roasters_Review_Analyst/blob/20320ee6c6b69fa2c8627e24f7c935eb50c4d3c7/World_Roasters_Review_Analysis%20-%20Details.png">
+
 ## Aim - Answer 10 questions
 
 1.	What is the most expensive coffee per 100g, and what features distinguish it?
@@ -45,11 +49,7 @@ This report explores the World Roaster Review dataset to uncover key insights ab
 10.	Top 5 high average rating coffee brands in Asia, do they have a common Mouthfeel? Provide any recommendations for future Asian markets.
 - TOP 5 brands name are Ethiopia Natural Guji D Minor Special Lot, Columbia Cauca El Paraiso, Ethiopia Aphrodite Washed Espresso, Ethiopia Natural Sidama TAMIRU 74158, Ethiopia Sidama Bensa Farmer Tamiru 74158 Natural
 - Creating coffee with mouthfeel for sweet/elegant tart taste. Balance the acidity of the taste from elegantly balance to intense.
-
-## Dashboard
-<img width="950" alt="Overview" src="https://github.com/DoanPhanThanh/World_Roasters_Review_Analyst/blob/6a2dd6b846aebf5e0425af48fb6780d387ca5c55/World_Roasters_Review_Analysis%20-%20Overview.png">
-<img width="950" alt="Details" src="https://github.com/DoanPhanThanh/World_Roasters_Review_Analyst/blob/20320ee6c6b69fa2c8627e24f7c935eb50c4d3c7/World_Roasters_Review_Analysis%20-%20Details.png">
-
+  
 ## Key Insights
 
 This two-page examines various attributes of the reviewed coffees, including roaster location, coffee origin, price per 100g, roast type, mouthfeel and aroma per review, and overall coffee rating.
